@@ -2,20 +2,10 @@
 
 # Awesome Nano Banana Pro 🍌
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) [![GitHub stars](https://img.shields.io/github/stars/ZeroLu/awesome-nanobanana-pro?style=social)](https://github.com/ZeroLu/awesome-nanobanana-pro/stargazers)
 
 > A curated collection of the **best Nano Banana prompts**, image generation styles, and resources for advanced AI visual experiments.
 
 This repository focuses on **high-fidelity image prompts** sourced from X (Twitter), WeChat, Replicate, and top prompt engineers. Whether you are looking for **photorealistic portraits**, **stylized aesthetics**, or complex creative experiments, you will find the most effective inputs here to unlock the full potential of the model. 
-
-### Try the prompts with actual Nano Banana Pro here 👉 [https://nanobananaprompts.com](https://www.nanobananaproprompts.com/)
-
-Consider subscribing to [this free newsletter](https://zerolu.substack.com/p/hello-there) or follow me on [X](https://x.com/zerolu_eth) if you want more high quality content like this.
-
-### Sponsor: [Free Sora Watermark Remover(Now with batch processing)](https://thesorawatermarkremover.com)
-[<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/c3bc6143-b01d-46ab-a1cc-ea823ddd5a10" />](https://thesorawatermarkremover.com)
-
-This repo gets up to **20,000 visitors per day**, [mail me](mailto:iamzerolu@gmail.com) if you want a limited sponsor slot!
 
 ## 📖 Table of Contents
 
